@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cwordtech
-Hallo guys👋
+- Hallo guys👋
 Disini kita bakal belajar dan ngebahas seputar dunia koding bareng bareng, Yuk belajar koding bareng bareng🔥
 
 <!---
